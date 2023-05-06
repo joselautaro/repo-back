@@ -1,0 +1,2 @@
+Instalamos firebase 8.10.0 con el comando npm install firebase@8.10.0
+
